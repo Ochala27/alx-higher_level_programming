@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 
 """A Student class with a method that returns
     The dictionary representation of the class
